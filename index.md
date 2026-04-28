@@ -6,7 +6,7 @@ layout: default
 # COMP 110 Data Analysis
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="analysis/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="/analysis/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Part 1.1 : Creative Ideation
 
@@ -32,9 +32,9 @@ Being able to write code is the most valuble skill that comes from this class. A
 
 ## Part 1.4: Analysis
 
-![Plot 1](analysis/static/imgs/scatter.png)
-![Plot 2](analysis/static/imgs/bar.png)
-![Plot 3](analysis/static/imgs/otherbar.png)
+<img src="/analysis/static/imgs/scatter.png" alt="Plot 1" width="500"/>
+<img src="/analysis/static/imgs/bar.png" alt="Plot 2" width="500"/>
+<img src="/analysis/static/imgs/otherbar.png" alt="Plot 3" width="500"/>
 
 ## Part 1.5: Conclusion
 
