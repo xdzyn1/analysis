@@ -32,9 +32,9 @@ Being able to write code is the most valuble skill that comes from this class. A
 
 ## Part 1.4: Analysis
 
-<img src="C:\Users\the5w\personal-site.github.io\static\imgs\scatter.png" alt="Scatter Plot" width="500"/>
-<img src="C:\Users\the5w\personal-site.github.io\static\imgs\bar.png" alt="Bar Chart" width="500"/>
-<img src="C:\Users\the5w\personal-site.github.io\static\imgs\otherbar.png" alt="Distribution Plot" width="500"/>
+<img src="static/imgs/scatter.png" alt="Scatter Plot" width="500"/>
+<img src="static/imgs/bar.png" alt="Bar Chart" width="500"/>
+<img src="static/imgs/otherbar.png" alt="Distribution Plot" width="500"/>
 
 ## Part 1.5: Conclusion
 
